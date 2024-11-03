@@ -1,1 +1,0 @@
-Program pengenalan genap/ganjil
