@@ -1,4 +1,4 @@
-# Program 2
+# Program 2: Laba investasi tiap bulan
 Program ini digunakan untuk menghitung total laba berdasarkan laba yang diperoleh setiap bulan selama 8 bulan. Berikut adalah penjelasan tentang cara kerja kode ini:
 
 ## Deskripsi Program
