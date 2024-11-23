@@ -1,4 +1,6 @@
 ![Dictionary-menyimpan-data-mahasiswa](https://github.com/user-attachments/assets/182c4f4d-7766-454e-925c-a17b94b87e49)
+![pladitor_diagram](https://github.com/user-attachments/assets/2c8e39b7-29ac-44b2-9789-d079f7557260)
+
 ### Penjelasan:
 1. Dictionary digunakan untuk menyimpan data mahasiswa dengan NIM sebagai kunci, dan nilai-nilai mahasiswa (nama, tugas, UTS, UAS, akhir) sebagai nilai.
 2. Terdapat fungsi-fungsi untuk masing-masing menu:
